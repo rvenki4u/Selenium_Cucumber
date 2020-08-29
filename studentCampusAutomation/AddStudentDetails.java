@@ -17,6 +17,7 @@ public class AddStudentDetails {
     public static void main(String[] args) {
         AddStudentDetails asd1 = new AddStudentDetails("Bala", 123, "CSE");
         AddStudentDetails asd2 = new AddStudentDetails("Venkat", 120, "EIE");
+        AddStudentDetails asd3 = new AddStudentDetails("Raja", 121, "iT");
         asd1.display();
         asd2.display();
 
