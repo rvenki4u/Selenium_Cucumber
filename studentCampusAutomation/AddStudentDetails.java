@@ -19,6 +19,7 @@ public class AddStudentDetails {
         AddStudentDetails asd2 = new AddStudentDetails("Venkat", 120, "EIE");
         AddStudentDetails asd3 = new AddStudentDetails("Rani", 127, "EEE");
         AddStudentDetails asd4= new AddStudentDetails("Raja", 121, "iT");
+        AddStudentDetails asd5= new AddStudentDetails("Prince", 123, "Mech");
         asd1.display();
         asd2.display();
         asd3.display();
