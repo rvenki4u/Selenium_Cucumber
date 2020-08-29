@@ -21,6 +21,7 @@ public class AddStudentDetails {
         AddStudentDetails asd4= new AddStudentDetails("Raja", 121, "iT");
         asd1.display();
         asd2.display();
+        asd3.display();
 
     }
 }
